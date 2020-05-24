@@ -1,6 +1,6 @@
 # Git Totorial 
  
- - ver.feature-c
+ - ver.feature-C
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
