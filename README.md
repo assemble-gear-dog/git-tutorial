@@ -4,3 +4,4 @@
  
  - ver.feature-C
  - ver.feature-D
+ - Local clone file
